@@ -1,2 +1,3 @@
 # LMS_PROJECT
-Education &amp; Learning Management System Project
+###Education & Learning Management System Project
+DEVI PRASANNA TAMARAKOLANU
